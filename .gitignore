@@ -2,6 +2,7 @@
 .gnip
 *.csv
 *.png
+!screenshot.png
 *.swp
 
 # C extensions
